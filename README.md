@@ -25,11 +25,11 @@ Desktop statistical analysis app with **PyQt6**, supporting hypothesis testing, 
 Machine learning project for **stellar object classification** with a Flask-based REST API.  
 *Tech:* Python, Scikit-learn, Flask, Docker  
 
-**🧮 [SQLite Index Benchmarks](https://github.com/deyme17/SQLite-Index-Benchmarks)**  
+**🧮 [SQLite Index Benchmarks](https://github.com/deyme17/SQLite_Index_benchmarks)**  
 Benchmarking **SQLite query performance** on coordinate-based datasets using various indexing strategies.  
 *Tech:* Python, SQLite, Matplotlib  
 
-**🏆 [My Kaggle Competition](https://github.com/deyme17/MyKaggleCompetition)**  
+**🏆 [My Kaggle Competition](https://github.com/deyme17/MyKaggleCompetitions)**  
 Full **EDA and model training pipeline** for Kaggle competition datasets.  
 *Tech:* Python, Pandas, Scikit-learn, Matplotlib  
 
