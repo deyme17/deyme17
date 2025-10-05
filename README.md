@@ -47,7 +47,7 @@ Full **EDA and model training pipeline** for Kaggle competition datasets.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" width="40" height="40" alt="Matplotlib"/>
+    <img src="https://camo.githubusercontent.com/786c17130776fdf6cf4173d70d67d7c7aaf06598b1e7e90497335a3241e8e6b1/68747470733a2f2f66696c652e6c616265782e696f2f706174682f3650445130473430436443582e706e67" width="40" height="40" alt="Matplotlib"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="scikit-learn"/>
@@ -56,7 +56,7 @@ Full **EDA and model training pipeline** for Kaggle competition datasets.
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40" alt="Flask"/>
+    <img src="https://ih1.redbubble.net/image.5527411452.4567/st,small,507x507-pad,600x600,f8f8f8.jpg" width="40" height="40" alt="Flask"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
