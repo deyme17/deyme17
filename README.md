@@ -1,25 +1,87 @@
-<h1 align="center">Hi there, I'm Dmytro</h1>
-<h3 align="center">A curious student from Ukraine learning data science and AI, driven to improve skills and work on impactful projects.</h3>
+<h1 align="center">Hi, I'm Dmytro 👋</h1>
+<h3 align="center">A motivated Data Science & AI student from Ukraine, eager to learn, build, and contribute to real-world projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deyme17&label=Profile%20views&color=0e75b6&style=flat" alt="deyme17" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deyme17" alt="deyme17" /></a> </p>
+### 🧠 About Me  
+- 🎓 2nd-year student majoring in **Data Analytics and Artificial Intelligence**  
+- 💻 Passionate about **Python development**, **machine learning**, and **statistical applications**  
+- 🚀 Interested in creating **intelligent systems** and **data-driven tools** that make a difference  
+- 🔍 Always exploring better architectures, cleaner code, and smarter solutions  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🧩 Featured Projects  
+
+**💸 [ExpensesTracker](https://github.com/deyme17/ExpensesTracker)**  
+Mobile finance tracker with **Monobank API integration**, real-time analytics, and secure JWT authentication.  
+*Tech:* Python, Kivy, Flask, PostgreSQL, Celery, Docker  
+
+**📊 [MatStat-Analytics](https://github.com/deyme17/MatStat-Analytics)**  
+Desktop statistical analysis app with **PyQt6**, supporting hypothesis testing, data preprocessing, and advanced visualization.  
+*Tech:* Python, PyQt6, Pandas, NumPy, SciPy, Matplotlib  
+
+**🌌 [Stellar Classification](https://github.com/deyme17/Stellar_Classification)**  
+Machine learning project for **stellar object classification** with a Flask-based REST API.  
+*Tech:* Python, Scikit-learn, Flask, Docker  
+
+**🧮 [SQLite Index Benchmarks](https://github.com/deyme17/SQLite-Index-Benchmarks)**  
+Benchmarking **SQLite query performance** on coordinate-based datasets using various indexing strategies.  
+*Tech:* Python, SQLite, Matplotlib  
+
+**🏆 [My Kaggle Competition](https://github.com/deyme17/MyKaggleCompetition)**  
+Full **EDA and model training pipeline** for Kaggle competition datasets.  
+*Tech:* Python, Pandas, Scikit-learn, Matplotlib  
+
+---
+
+### 🛠️ Languages and Tools  
 <p align="left">
-<a href="https://linkedin.com/in/dmytro-shcherbynskyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dmytro-shcherbynskyi" height="30" width="40" /></a>
-<a href="https://kaggle.com/dmytroshcherbynskyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dmytroshcherbynskyi" height="30" width="40" /></a>
-<a href="https://instagram.com/_deyme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_deyme" height="30" width="40" /></a>
-<a href="https://medium.com/@deyme17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@deyme17" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/deyme17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deyme17" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/deyme17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deyme17" height="30" width="40" /></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" width="40" height="40" alt="Matplotlib"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="scikit-learn"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40" alt="Flask"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deyme17&show_icons=true&locale=en&layout=compact" alt="deyme17" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deyme17&show_icons=true&locale=en" alt="deyme17" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deyme17&" alt="deyme17" /></p>
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/dmytro-shcherbynskyi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://kaggle.com/dmytroshcherbynskyi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
+  <a href="https://medium.com/@deyme17" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/deyme17" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/deyme17" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+</p>
