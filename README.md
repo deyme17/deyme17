@@ -56,7 +56,7 @@ Full **EDA and model training pipeline** for Kaggle competition datasets.
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://ih1.redbubble.net/image.5527411452.4567/st,small,507x507-pad,600x600,f8f8f8.jpg" width="40" height="40" alt="Flask"/>
+    <img src="https://p7.hiclipart.com/preview/166/342/413/flask-python-bottle-web-framework-web-application-flask.jpg" width="40" height="40" alt="Flask"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
