@@ -1,87 +1,172 @@
-<h1 align="center">Hi, I'm Dmytro 👋</h1>
-<h3 align="center">A motivated Data Science & AI student from Ukraine, eager to learn, build, and contribute to real-world projects.</h3>
+![Header](./banner.png)
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;ML+%7C+Data+Science+%7C+Python;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### 🧠 About Me  
-- 🎓 2nd-year student majoring in **Data Analytics and Artificial Intelligence**  
-- 💻 Passionate about **Python development**, **machine learning**, and **statistical applications**  
-- 🚀 Interested in creating **intelligent systems** and **data-driven tools** that make a difference  
-- 🔍 Always exploring better architectures, cleaner code, and smarter solutions  
+## 🧠 About Me
+
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Dmytro Shcherbynskyi"
+        self.role = "Data Scientist & ML Engineer"
+        self.location = "Kyiv, Ukraine 🇺🇦"
+        self.education = "Data Analytics & AI @ KAI"
+        self.interests = ["Machine Learning", "Deep Learning", "Data Visualization"]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together.")
+
+me = DataScientist()
+me.say_hi()
+```
+
+- 🎓 2nd-year student in **Data Analytics & Artificial Intelligence**
+- 🔬 Passionate about creating **ML models** and **data-driven solutions**
+- 🚀 Love exploring **neural networks**, **statistical analysis**, and **system optimization**
+- 💡 Always seeking cleaner code, smarter architectures, and better results
 
 ---
 
-### 🧩 Featured Projects  
+## 🛠️ Tech Stack
 
-**💸 [ExpensesTracker](https://github.com/deyme17/ExpensesTracker)**  
-Mobile finance tracker with **Monobank API integration**, real-time analytics, and secure JWT authentication.  
-*Tech:* Python, Kivy, Flask, PostgreSQL, Celery, Docker  
+### **Languages & Core**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**📊 [MatStat-Analytics](https://github.com/deyme17/MatStat-Analytics)**  
-Desktop statistical analysis app with **PyQt6**, supporting hypothesis testing, data preprocessing, and advanced visualization.  
-*Tech:* Python, PyQt6, Pandas, NumPy, SciPy, Matplotlib  
+### **ML & Data Science**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-**🌌 [Stellar Classification](https://github.com/deyme17/Stellar_Classification)**  
-Machine learning project for **stellar object classification** with a Flask-based REST API.  
-*Tech:* Python, Scikit-learn, Flask, Docker  
-
-**🧮 [SQLite Index Benchmarks](https://github.com/deyme17/SQLite_Index_benchmarks)**  
-Benchmarking **SQLite query performance** on coordinate-based datasets using various indexing strategies.  
-*Tech:* Python, SQLite, Matplotlib  
-
-**🏆 [My Kaggle Competition](https://github.com/deyme17/MyKaggleCompetitions)**  
-Full **EDA and model training pipeline** for Kaggle competition datasets.  
-*Tech:* Python, Pandas, Scikit-learn, Matplotlib  
-
----
-
-### 🛠️ Languages and Tools  
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://camo.githubusercontent.com/786c17130776fdf6cf4173d70d67d7c7aaf06598b1e7e90497335a3241e8e6b1/68747470733a2f2f66696c652e6c616265782e696f2f706174682f3650445130473430436443582e706e67" width="40" height="40" alt="Matplotlib"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="scikit-learn"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://p7.hiclipart.com/preview/166/342/413/flask-python-bottle-web-framework-web-application-flask.jpg" width="40" height="40" alt="Flask"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  </a>
-</p>
+### **Development & Tools**
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🤝 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/dmytro-shcherbynskyi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://kaggle.com/dmytroshcherbynskyi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
-  <a href="https://medium.com/@deyme17" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/deyme17" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/deyme17" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-</p>
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Aerial Image Classification
+End-to-end ML pipeline with **EfficientNetV2S**  
+*4000+ annotated images, 95%+ accuracy*
+
+**Stack:** `TensorFlow` `Keras` `W&B` `Data Augmentation`
+
+[View Project →](https://github.com/deyme17)
+
+</td>
+<td width="50%">
+
+### 💸 ExpensesTracker
+Mobile finance app with **Monobank API**  
+*Real-time analytics, JWT auth, notifications*
+
+**Stack:** `Kivy` `Flask` `PostgreSQL` `Docker` `Celery`
+
+[View Project →](https://github.com/deyme17/ExpensesTracker)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 MatStat-Analytics
+Desktop statistical analysis tool  
+*Hypothesis testing, preprocessing, visualization*
+
+**Stack:** `PyQt6` `Pandas` `NumPy` `SciPy` `Matplotlib`
+
+[View Project →](https://github.com/deyme17/MatStat-Analytics)
+
+</td>
+<td width="50%">
+
+### 🌌 Stellar Classification
+ML classifier with **Flask REST API**  
+*Gradient Boosting, Docker deployment*
+
+**Stack:** `Scikit-learn` `Flask` `Docker`
+
+[View Project →](https://github.com/deyme17/Stellar_Classification)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 RivieraBot
+Telegram work request manager  
+*Role-based access, admin dashboard, CI/CD*
+
+**Stack:** `Aiogram` `PostgreSQL` `GitHub Actions` `DigitalOcean`
+
+[View Project →](https://github.com/deyme17)
+
+</td>
+<td width="50%">
+
+### 🧮 SQLite Index Benchmarks
+Query performance research  
+*2D coordinate indexing strategies analysis*
+
+**Stack:** `SQLite` `Python` `Matplotlib`
+
+[View Project →](https://github.com/deyme17/SQLite_Index_benchmarks)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **2nd Place** – University Math Olympiad
+- 🥈 **2nd Place** – Kyiv Math Battle Tournament
+- 🎓 **Certified** – DataRoot University (ML & Data Science)
+- 🎓 **Certified** – Udemy Python for Data Science Bootcamp
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dmytro-shcherbynskyi)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/dmytroshcherbynskyi)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@deyme17)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/deyme17)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/deyme17)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/deyme17)
+
+📧 **dmytro19022006@gmail.com**
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"Data is the new oil, but models are the refineries"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=deyme17&color=7AA2F7&style=for-the-badge)
+
+</div>
