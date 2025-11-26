@@ -73,13 +73,13 @@ End-to-end ML pipeline with **EfficientNetV2S**
 </td>
 <td width="50%">
 
-### 💸 ExpensesTracker
-Mobile finance app with **Monobank API**  
-*Real-time analytics, JWT auth, notifications*
+### 👁️ Diabetic-Retinopathy-CV
+DL/CV project for Diabetic Retinopathy detection
+*CNNs, Transfer Learning, Regularization, Autoencoders*
 
-**Stack:** `Kivy` `Flask` `PostgreSQL` `Docker` `Celery`
+**Stack:** `PyTorch` `Torchvision` `Python` `Matplotlib` `Scikit-learn`
 
-[View Project →](https://github.com/deyme17/ExpensesTracker)
+[View Project →](https://github.com/deyme17/Diabetic-Retinopathy-CV)
 
 </td>
 </tr>
@@ -112,6 +112,17 @@ ML classifier with **Flask REST API**
 <tr>
 <td width="50%">
 
+### 💸 ExpensesTracker
+Mobile finance app with **Monobank API**  
+*Real-time analytics, JWT auth, notifications*
+
+**Stack:** `Kivy` `Flask` `PostgreSQL` `Docker` `Celery`
+
+[View Project →](https://github.com/deyme17/ExpensesTracker)
+
+</td>
+<td width="50%">
+
 ### 🤖 RivieraBot
 Telegram work request manager  
 *Role-based access, admin dashboard, CI/CD*
@@ -119,17 +130,6 @@ Telegram work request manager
 **Stack:** `Aiogram` `PostgreSQL` `GitHub Actions` `DigitalOcean`
 
 [View Project →](https://github.com/deyme17)
-
-</td>
-<td width="50%">
-
-### 🧮 SQLite Index Benchmarks
-Query performance research  
-*2D coordinate indexing strategies analysis*
-
-**Stack:** `SQLite` `Python` `Matplotlib`
-
-[View Project →](https://github.com/deyme17/SQLite_Index_benchmarks)
 
 </td>
 </tr>
