@@ -8,23 +8,13 @@
 
 ---
 
+
 ## 🧠 About Me
 
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Dmytro Shcherbynskyi"
-        self.role = "Data Scientist & ML Engineer"
-        self.location = "Kyiv, Ukraine 🇺🇦"
-        self.education = "Data Analytics & AI @ KAI"
-        self.interests = ["Machine Learning", "Deep Learning", "Data Visualization"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
+My name is Dmytro, i'm a Data Scientist & ML Engineer focused on building intelligent systems, robust analytical pipelines, and production-ready machine learning solutions. I study Data Analytics & Artificial Intelligence and work at the intersection of statistics, algorithms, and software engineering.
 
-me = DataScientist()
-me.say_hi()
-```
+My core strength is delivering ML workflows end-to-end — from data preprocessing and exploratory analysis to model development, evaluation, and deployment. I prioritize clean architecture, reproducibility, and efficient execution in every project.
+Outside of work and studies, I maintain an active lifestyle and enjoy sports, which helps me stay productive and keep a clear strategic mindset.
 
 - 🎓 2nd-year student in **Data Analytics & Artificial Intelligence**
 - 🔬 Passionate about creating **ML models** and **data-driven solutions**
@@ -41,15 +31,16 @@ me.say_hi()
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### **ML & Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### **Development & Tools**
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
