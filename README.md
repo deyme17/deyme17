@@ -16,7 +16,7 @@ My name is Dmytro, i'm a Data Scientist & ML Engineer focused on building intell
 My core strength is delivering ML workflows end-to-end — from data preprocessing and exploratory analysis to model development, evaluation, and deployment. I prioritize clean architecture, reproducibility, and efficient execution in every project.
 Outside of work and studies, I maintain an active lifestyle and enjoy sports, which helps me stay productive and keep a clear strategic mindset.
 
-- 🎓 2nd-year student in **Data Analytics & Artificial Intelligence**
+- 🎓 3rd-year student in **Data Analytics & Artificial Intelligence**
 - 🔬 Passionate about creating **ML models** and **data-driven solutions**
 - 🚀 Love exploring **neural networks**, **statistical analysis**, and **system optimization**
 - 💡 Always seeking cleaner code, smarter architectures, and better results
