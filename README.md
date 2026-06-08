@@ -54,6 +54,7 @@ Outside of work and studies, I maintain an active lifestyle and enjoy sports, wh
 - 🎓 **Certified** – DataRoot University (ML & Data Science)
 - 🎓 **Certified** – DataRoot University (DL with PyTorch)
 - 🎓 **Certified** – Udemy Python for Data Science Bootcamp
+- 🎓 **Certified** – Use of Artificial Intelligence in Logistics and Supply Chain (issued by The International University of Logistics and Transport in Wroclaw)
 
 ---
 
