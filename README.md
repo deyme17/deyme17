@@ -1,29 +1,23 @@
 ![Header](./github-header-banner.png)
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;ML+%7C+Data+Science+%7C+Python;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
-
-</div>
-
 ---
 
 
-## 🧠 About Me
+## About Me
 
 My name is Dmytro, i'm a Data Scientist & ML Engineer focused on building intelligent systems, robust analytical pipelines, and production-ready machine learning solutions. I study Data Analytics & Artificial Intelligence and work at the intersection of statistics, algorithms, and software engineering.
 
 My core strength is delivering ML workflows end-to-end — from data preprocessing and exploratory analysis to model development, evaluation, and deployment. I prioritize clean architecture, reproducibility, and efficient execution in every project.
 Outside of work and studies, I maintain an active lifestyle and enjoy sports, which helps me stay productive and keep a clear strategic mindset.
 
-- 🎓 3rd-year student in **Data Analytics & Artificial Intelligence**
-- 🔬 Passionate about creating **ML models** and **data-driven solutions**
-- 🚀 Love exploring **neural networks**, **statistical analysis**, and **system optimization**
-- 💡 Always seeking cleaner code, smarter architectures, and better results
+- 3rd-year student in **Data Analytics & Artificial Intelligence**
+- Passionate about creating **ML models** and **data-driven solutions**
+- Love exploring **neural networks**, **statistical analysis**, and **system optimization**
+- Always seeking cleaner code, smarter architectures, and better results
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Languages & Core**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -47,18 +41,18 @@ Outside of work and studies, I maintain an active lifestyle and enjoy sports, wh
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-- 🥈 **2nd Place** – University Math Olympiad
-- 🥈 **2nd Place** – Kyiv Math Battle Tournament
-- 🎓 **Certified** – DataRoot University (ML & Data Science)
-- 🎓 **Certified** – DataRoot University (DL with PyTorch)
-- 🎓 **Certified** – Udemy Python for Data Science Bootcamp
-- 🎓 **Certified** – Use of Artificial Intelligence in Logistics and Supply Chain (issued by The International University of Logistics and Transport in Wroclaw)
+- **2nd Place** – University Math Olympiad
+- **2nd Place** – Kyiv Math Battle Tournament
+- **Certified** – DataRoot University (ML & Data Science)
+- **Certified** – DataRoot University (DL with PyTorch)
+- **Certified** – Udemy Python for Data Science Bootcamp
+- **Certified** – Use of Artificial Intelligence in Logistics and Supply Chain (issued by The International University of Logistics and Transport in Wroclaw)
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -69,16 +63,6 @@ Outside of work and studies, I maintain an active lifestyle and enjoy sports, wh
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/deyme17)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/deyme17)
 
-📧 **dmytro19022006@gmail.com**
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 *"Data is the new oil, but models are the refineries"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=deyme17&color=7AA2F7&style=for-the-badge)
+**dmytro19022006@gmail.com**
 
 </div>
